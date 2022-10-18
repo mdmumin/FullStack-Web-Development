@@ -1,0 +1,91 @@
+body{
+    background-color: #d8d8d8;
+}
+nav{
+
+    height: 97px;
+
+}
+ul{
+    list-style-type: none;
+}
+.nav_h{
+    width: 200px;
+    height: 80px;
+    float: left;
+    padding-left: 30px;
+    color: #3972f2;
+}
+
+.main_menu{
+    width: 800px;
+    height: 80px;
+    float: right;
+    padding-right: 30px;
+}
+
+.main_menu ul{
+    float: right;
+}
+.main_menu ul li{
+    float: left;
+}
+
+.main_menu ul li a{
+    color: #3972f2;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Myriad Pro';
+    margin-left: 15px;
+    line-height: 100px;
+}
+.product_part{
+    background-color: #d8d8d8;
+}
+.product_h h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 20px;
+    color: #3972f2;
+}
+.product_view{
+    
+    float: left;
+    padding-left: 20px;
+    padding-right: 0px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+    margin: 1px;
+    background-color: #d8d8d8;
+}
+.product_view img{
+    width: 23.30%;
+    height: 350px;
+    float: left;
+    padding: 0px 0px 20px 10px;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+.footer_h h2{
+    padding-top: 40px;
+    padding-left: 20px;
+    color: aliceblue;
+}
+.emty{
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.footer_part{
+    background-color: black;
+    
+}
+ol li a{
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: aliceblue;
+}
